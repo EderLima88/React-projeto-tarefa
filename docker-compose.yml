@@ -1,0 +1,9 @@
+
+services:
+  app:
+    image: app-react-imagem-tarefa
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./:/app # Mapeia a pasta local 'app-react-imagem' para '/app' no container
+  
