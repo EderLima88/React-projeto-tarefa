@@ -3,7 +3,7 @@
 
 <div style="text-align: center;">
      <img src="public\JavaSript.png">
-     <img src="public\676a386832b2f-Vite - Copia-192.png">
+     <img src="public\cinza- Vite - Copia-192.png">
      <img src="public\logo192.png">
 </div>
 
